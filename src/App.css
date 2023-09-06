@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Kalam', cursive;
+}
+.container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.box{
+  background-color: #3A3A3C;
+  width:730px;
+  height:730px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.in-box{
+  border:2px solid white;
+  width:660px;
+  height:655px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.gmenutext{
+  list-style-type: none;
+}
+.menutext{
+  font-size: 18px;
+  color:white;
+  margin-left: 14px;
+}
+.text-part{
+  width:620px;
+  height:110px;
+}
+.ffoodtext{
+  text-align: center;
+  color:#F2CA6B;
+  font-size: 33px;
+}
+.menutitle{
+  text-align: center;
+  color:white;
+  font-size: 45px;
+}
+.menu-part{
+  display: flex;
+  margin-top: 50px;
+}
+.menu-part1{
+  margin-right: 40px;
+}
+.menuimages{
+  width:100px;
+  height:80px;
+  margin-bottom: 13px;
+}
+.gmenutext{
+display: flex;
+}
